@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Instal and Enable IIS (Internet Information Services) with CGI
 - Install PHP for IIS using PHP Manager (5.6 or higher)
 - Install MySQL Database
-- Insatll and Rewite Module for IIS
+- Install and Rewite Module for IIS
 - Download and Configure osTicket Files
 
 <h2>Installation Steps</h2>
