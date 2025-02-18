@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Instal and Enable IIS (Internet Information Services) with CGI
+- Install and Enable IIS (Internet Information Services) with CGI
 - Install PHP for IIS using PHP Manager (5.6 or higher)
 - Install MySQL Database
 - Install and Rewite Module for IIS
